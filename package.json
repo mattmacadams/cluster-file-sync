@@ -1,0 +1,25 @@
+{
+  "name": "cluster-file-sync",
+  "version": "0.0.1",
+  "description": "NodeJS daemon for syncing files between servers",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mattmacadams/cluster-file-sync.git"
+  },
+  "keywords": [
+    "file",
+    "sync",
+    "cluster",
+    "decentralized"
+  ],
+  "author": "Matt MacAdams",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mattmacadams/cluster-file-sync/issues"
+  },
+  "homepage": "https://github.com/mattmacadams/cluster-file-sync#readme"
+}
